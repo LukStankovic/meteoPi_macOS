@@ -93,6 +93,7 @@
 				TargetAttributes = {
 					07E554E51D4A058C009FCD4C = {
 						CreatedOnToolsVersion = 7.3.1;
+						DevelopmentTeam = DSEHBKSB68;
 					};
 				};
 			};
@@ -275,6 +276,7 @@
 				07E554F71D4A058C009FCD4C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
